@@ -1,0 +1,75 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{fujisawa2008forty}
+\bibauthor{FUJISAWA H}\@. \bibtitle{Forty years of research in character and
+  document recognition: an industrial perspective}\bibmark{[J]}\@.
+  \bibjournal{Pattern Recognition}\@, \bibyear{2008}\@,
+  \bibvolume{41}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{2435\thinspace{}\textnormal{--}\thinspace{}2446}\@.
+
+\bibitem{xu2012touching}
+\bibauthor{XU L\@, YIN F\@, WANG Q-F, et~al}\@. \bibtitle{A touching character
+  database from Chinese handwriting for assessing segmentation
+  algorithms}\bibmark{[C]} //\thinspace{}\bibbooktitle{Frontiers in Handwriting
+  Recognition (ICFHR), 2012 International Conference on}\@.
+  \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{89\thinspace{}\textnormal{--}\thinspace{}94}\@.
+
+\bibitem{graves2009novel}
+\bibauthor{GRAVES A\@, LIWICKI M\@, FERN{\'A}NDEZ S, et~al}\@. \bibtitle{A
+  novel connectionist system for unconstrained handwriting
+  recognition}\bibmark{[J]}\@. \bibjournal{IEEE transactions on pattern
+  analysis and machine intelligence}\@, \bibyear{2009}\@,
+  \bibvolume{31}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{855\thinspace{}\textnormal{--}\thinspace{}868}\@.
+
+\bibitem{su2014accurate}
+\bibauthor{SU B\@, LU S}\@. \bibtitle{Accurate scene text recognition based on
+  recurrent neural network}\bibmark{[C]} //\thinspace{}\bibbooktitle{Asian
+  Conference on Computer Vision}\@. \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{35\thinspace{}\textnormal{--}\thinspace{}48}\@.
+
+\bibitem{wang2012end}
+\bibauthor{WANG T\@, WU D~J\@, COATES A, et~al}\@. \bibtitle{End-to-end text
+  recognition with convolutional neural networks}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Pattern Recognition (ICPR), 2012 21st
+  International Conference on}\@. \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{3304\thinspace{}\textnormal{--}\thinspace{}3308}\@.
+
+\bibitem{mishra2012scene}
+\bibauthor{MISHRA A\@, ALAHARI K\@, JAWAHAR C}\@. \bibtitle{Scene text
+  recognition using higher order language priors}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{BMVC 2012-23rd British Machine Vision
+  Conference}\@. \bibyear{2012}\@.
+
+\bibitem{baiduapi}
+\bibauthor{{BAIDU}}\@. \bibtitle{{BAIDU Text Recognition}}\bibmark{[EB/OL]}\@.
+  \bibpublisher{BAIDU}\@, \bibyear{2018} \bibmodifydate{(2018/05/10)}
+  \bibcitedate{[2018/05/10]}\@.
+  \newline\url{https://cloud.baidu.com/product/ocr.html}\@.
+
+\end{thebibliography}
