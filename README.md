@@ -2,7 +2,7 @@
 
 南京大学本科生毕业论文LaTex模板 2018 新版
 
-## 作者饶安逸 个人主页 http://anyirao.com
+## 作者 RAY 个人主页 http://anyirao.com
 
 ## 鸣谢
 
